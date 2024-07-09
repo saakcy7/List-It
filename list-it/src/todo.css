@@ -7,19 +7,19 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px #f8b9b9;
   }
   
   .todo button {
-    background: #ff6347;
+    background: #B6E2D3;
     border: none;
-    color: white;
+    color: grey;
     padding: 5px 10px;
     border-radius: 3px;
     cursor: pointer;
   }
   
   .todo button:hover {
-    background: #ff4500;
+    background: #2E765E;
   }
   

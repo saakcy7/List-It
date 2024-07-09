@@ -15,6 +15,7 @@ function App() {
   };
 
   return (
+    <div className='app-container'>
     <div className="app">
       <h1>To-Do List</h1>
       <TodoForm addTodo={addTodo} />
@@ -23,6 +24,7 @@ function App() {
           <Todo key={todo.id} todo={todo} removeTodo={removeTodo} />
         ))}
       </div>
+    </div>
     </div>
   );
 }
