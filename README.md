@@ -1,6 +1,6 @@
 # List-It
 
-This is a simple to-do list application built with React. It allows users to add, delete, and mark tasks as completed. The purpose of this project is to demonstrate the basic usage of React for managing state and rendering components.
+This is a simple to-do list application built with React. It allows users to add, delete tasks. The purpose of this project is to demonstrate the basic usage of React for managing state and rendering components.
 
 ## Features
 
@@ -18,7 +18,7 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
 Clone the repository:
 
-git clone https://github.com/yourusername/simple-todo-list-react.git
+git clone https://github.com/saakcy7/List-It.git
 
 # Install dependencies:
 
